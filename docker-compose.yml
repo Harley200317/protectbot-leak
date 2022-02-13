@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+  strider:
+    container_name: ProtectBot
+    build: .
+    restart: always
+    network_mode: host

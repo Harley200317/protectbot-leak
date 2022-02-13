@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@ksoft/api": "^3.1.9",
+    "bufferutil": "^4.0.5",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.6.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.0",
+    "mongoose": "^6.1.6",
+    "node-fetch": "^3.1.0",
+    "pretty-js": "^0.2.2",
+    "regex": "^0.1.1",
+    "zlib-sync": "^0.1.7"
+  }
+}
