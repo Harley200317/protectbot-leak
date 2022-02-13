@@ -1,6 +1,6 @@
-# ProtectBot.net Source Code
+# Protect Bot Source Code
 
-Leaked Source Code for the Protect Bot Website!
+Leaked Source Code for the Protect Bot Discord Client/Bot!
 Made available due to Misconfiguration and False Information
 
 ---
