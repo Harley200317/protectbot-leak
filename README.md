@@ -1,5 +1,7 @@
-# protectbot.net-leaked
+# ProtectBot.net Source Code
+
 Leaked Source Code for the Protect Bot Website!
+Made available due to Misconfiguration and False Information
 
 ---
 
