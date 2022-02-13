@@ -14,7 +14,7 @@ and false claims before this repo is filled with all of the Protect Bot Source C
 
 ## "Get Wreked Noob"
 
-## "Defemation of Character"
+## "Defamation of Character"
 
 ## "Two Can Play This Game"
 
